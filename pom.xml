@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.behsa</groupId>
     <artifactId>maven-release-sample</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
     <name>maven-release-sample</name>
     <description>maven-release-sample</description>
     <properties>
@@ -36,7 +36,8 @@
         <connection>scm:git:git@github.com:saharfk/mave-release-sample.git</connection>
         <developerConnection>scm:git:git@github.com:saharfk/mave-release-sample.git</developerConnection>
         <url>git@github.com:saharfk/mave-release-sample.git</url>
-    </scm>
+      <tag>maven-release-sample-0.0.4</tag>
+  </scm>
 
     <build>
         <plugins>
