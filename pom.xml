@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.behsa</groupId>
     <artifactId>maven-release-sample</artifactId>
-    <version>0.0.2-SNAOSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>maven-release-sample</name>
     <description>maven-release-sample</description>
     <properties>
