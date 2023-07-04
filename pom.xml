@@ -37,6 +37,7 @@
         <connection>scm:git:https://github.com/saharfk/mave-release-sample.git</connection>
         <developerConnection>scm:git:https://github.com/saharfk/mave-release-sample.git</developerConnection>
         <url>https://github.com/saharfk/mave-release-sample.git</url>
+        <tag>maven-release-sample-0.0.3</tag>
     </scm>
 
     <build>
