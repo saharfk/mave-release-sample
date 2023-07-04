@@ -8,6 +8,6 @@ public class MavenReleaseController {
 
     @GetMapping("/maven")
     public String hello() {
-        return "Hello, Maven Release Plugin!";
+        return "Hello, Maven Release Plugin";
     }
 }
